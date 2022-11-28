@@ -1,0 +1,15 @@
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\bin\Debug\net7.0\task.exe
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\bin\Debug\net7.0\task.deps.json
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\bin\Debug\net7.0\task.dll
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\bin\Debug\net7.0\task.pdb
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.dll
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.pdb
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\Виктория\OneDrive\Рабочий стол\it_task\gh\Final_homework\task\obj\Debug\net7.0\ref\task.dll
